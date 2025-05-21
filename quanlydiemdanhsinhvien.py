@@ -308,49 +308,44 @@ if __name__ == "__main__":
         print("13. Xuất báo cáo ra file")
         print("14. Lọc danh sách theo trạng thái")
         print("15. Tìm sinh viên chưa điểm danh")
-        print("16. Tạo mã buổi học")
-        print("17. Sắp xếp sinh viên")
-        print("18. Xử lý ngoại lệ nhập sai")
         print("0. Thoát chương trình")
-        choice = input("Chọn chức năng (0-19): ")
-        if choice == '1':
-            them_lop_hoc()
-        elif choice == '2':
-            them_sinh_vien()
-        elif choice == '3':
-            xoa_sinh_vien()
-        elif choice == '4':
-            hien_thi_danh_sach()
-        elif choice == '5':
-            tim_kiem_sinh_vien()
-        elif choice == '6':
-            tao_buoi_diem_danh()
-        elif choice == '7':
-            diem_danh_thu_cong()
-        elif choice == '8':
-            doc_diem_danh_tu_file()
-        elif choice == '9':
-            cap_nhat_trang_thai()
-        elif choice == '10':
-            thong_ke_vang()
-        elif choice == '11':
-            xem_sinh_vien_vang_nhieu()
-        elif choice == '12':
-            xem_lich_su_diem_danh()
-        elif choice == '13':
-            xuat_bao_cao_ra_file()
-        elif choice == '14':
-            loc_theo_trang_thai()
-        elif choice == '15':
-            tim_chua_diem_danh()
-        elif choice == '16':
-            tao_ma_buoi_hoc()
-        elif choice == '17':
-            sap_xep_sinh_vien()
-        elif choice == '18':
-            xu_ly_ngoai_le()
-        elif choice == '0':
-            print("Đã thoát chương trình.")
-            break
-        else:
-            print("Lựa chọn không hợp lệ. Vui lòng chọn lại.")
+        
+        try:
+            choice = input("Chọn chức năng (0-15): ").strip()
+            if choice == '1':
+                them_lop_hoc()
+            elif choice == '2':
+                them_sinh_vien()
+            elif choice == '3':
+                xoa_sinh_vien()
+            elif choice == '4':
+                hien_thi_danh_sach()
+            elif choice == '5':
+                tim_kiem_sinh_vien()
+            elif choice == '6':
+                tao_buoi_diem_danh()
+            elif choice == '7':
+                diem_danh_thu_cong()
+            elif choice == '8':
+                doc_diem_danh_tu_file()
+            elif choice == '9':
+                cap_nhat_trang_thai()
+            elif choice == '10':
+                thong_ke_vang()
+            elif choice == '11':
+                xem_sinh_vien_vang_nhieu()
+            elif choice == '12':
+                xem_lich_su_diem_danh()
+            elif choice == '13':
+                xuat_bao_cao_ra_file()
+            elif choice == '14':
+                loc_theo_trang_thai()
+            elif choice == '15':
+                tim_chua_diem_danh()
+            elif choice == '0':
+                print("Đã thoát chương trình.")
+                break
+            else:
+                print("Lựa chọn không hợp lệ. Vui lòng chọn lại.")
+        except Exception as e:
+            print(f"Đã xảy ra lỗi: {e}")
