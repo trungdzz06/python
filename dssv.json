@@ -1,0 +1,71 @@
+{
+  "CNTT18_06": { 
+    "1001": {
+      "msv": 1001,
+      "ten_sinh_vien": "Nguyen Van A",
+      "ngay_sinh": "2005-01-01",
+      "gioi_tinh": "Nam",
+      "sdt": "0901000001"
+    },
+    "1002": {
+      "msv": 1002,
+      "ten_sinh_vien": "Tran Thi B",
+      "ngay_sinh": "2005-02-02",
+      "gioi_tinh": "Nữ",
+      "sdt": "0901000002"
+    },
+    "1003": {
+      "msv": 1003,
+      "ten_sinh_vien": "Le Van C",
+      "ngay_sinh": "2005-03-03",
+      "gioi_tinh": "Nam",
+      "sdt": "0901000003"
+    }
+  },
+  "CNTT18_07": {
+    "1004": {
+      "msv": 1004,
+      "ten_sinh_vien": "Pham Thi D",
+      "ngay_sinh": "2005-04-04",
+      "gioi_tinh": "Nữ",
+      "sdt": "0901000004"
+    },
+    "1005": {
+      "msv": 1005,
+      "ten_sinh_vien": "Do Van E",
+      "ngay_sinh": "2005-05-05",
+      "gioi_tinh": "Nam",
+      "sdt": "0901000005"
+    },
+    "1006": {
+      "msv": 1006,
+      "ten_sinh_vien": "Hoang Thi F",
+      "ngay_sinh": "2005-06-06",
+      "gioi_tinh": "Nữ",
+      "sdt": "0901000006"
+    }
+  },
+  "CNTT18_08": {
+    "1007": {
+      "msv": 1007,
+      "ten_sinh_vien": "Nguyen Van G",
+      "ngay_sinh": "2005-07-07",
+      "gioi_tinh": "Nam",
+      "sdt": "0901000007"
+    },
+    "1008": {
+      "msv": 1008,
+      "ten_sinh_vien": "Tran Thi H",
+      "ngay_sinh": "2005-08-08",
+      "gioi_tinh": "Nữ",
+      "sdt": "0901000008"
+    },
+    "1009": {
+      "msv": 1009,
+      "ten_sinh_vien": "Le Van I",
+      "ngay_sinh": "2005-09-09",
+      "gioi_tinh": "Nam",
+      "sdt": "0901000009"
+    }
+  }
+}

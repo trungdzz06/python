@@ -1,0 +1,116 @@
+{
+  "2025-05-17": {
+    "python": {
+      "CNTT18_06": {
+        "1001": {
+          "msv": 1001,
+          "trang_thai": "có"
+        },
+        "1002": {
+          "msv": 1002,
+          "trang_thai": "có"
+        },
+        "1003": {
+          "msv": 1003,
+          "trang_thai": "vắng"
+        }
+      }
+    },
+    "java": {
+      "CNTT18_06": {
+        "1": {
+          "msv": 1,
+          "trang_thai": "vắng"
+        },
+        "3": {
+          "msv": 3,
+          "trang_thai": "có"
+        }
+      }
+    },
+    "html": {
+      "CNTT18_06": {
+        "2": {
+          "msv": 2,
+          "trang_thai": "có"
+        },
+        "3": {
+          "msv": 3,
+          "trang_thai": "vắng"
+        }
+      }
+    }
+  },
+  "2025-05-18": {
+    "python": {
+      "CNTT18_06": {
+        "1": {
+          "msv": 1,
+          "trang_thai": "có"
+        },
+        "3": {
+          "msv": 3,
+          "trang_thai": "vắng"
+        }
+      }
+    },
+    "csdl": {
+      "CNTT18_06": {
+        "2": {
+          "msv": 2,
+          "trang_thai": "có"
+        },
+        "3": {
+          "msv": 3,
+          "trang_thai": "vắng"
+        }
+      }
+    },
+    "mangmaytinh": {
+      "CNTT18_06": {
+        "1": {
+          "msv": 1,
+          "trang_thai": "vắng"
+        },
+        "2": {
+          "msv": 2,
+          "trang_thai": "có"
+        }
+      }
+    }
+  },
+  "2025-05-19": {
+    "python": {
+      "CNTT18_06": {
+        "2": {
+          "msv": "2",
+          "trang_thai": "có"
+        },
+        "3": {
+          "msv": 3,
+          "trang_thai": "có"
+        }
+      }
+    },
+    "java": {
+      "CNTT18_06": {
+        "1": {
+          "msv": 1,
+          "trang_thai": "có"
+        },
+        "2": {
+          "msv": 2,
+          "trang_thai": "vắng"
+        }
+      }
+    },
+    "csdl": {
+      "CNTT18_06": {
+        "3": {
+          "msv": 3,
+          "trang_thai": "có"
+        }
+      }
+    }
+  }
+}
